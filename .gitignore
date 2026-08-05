@@ -1,1 +1,5 @@
-*.pt echo*.pth echo *.safetensors .gitignore
+.env
+.venv/
+*.pt
+*.pth
+*.safetensors
