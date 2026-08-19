@@ -1,5 +1,10 @@
 .env
 .venv/
+*.bin
 *.pt
 *.pth
 *.safetensors
+*.onnx
+data/*.parquet
+data/*.csv
+models/
